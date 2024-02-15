@@ -1,4 +1,13 @@
-tutoril 10 : Jest Watch Mode
+tutorial 10 : Jest Watch Mode
 
 - Watch Mode is an option that we can pass to Jest asking to Watch files that have changed since 
 the last commit and execute tests realted only to thsoe changed files.
+
+
+tutorial 12 - Grouping tests
+
+- Describe Mehotd ( Jest Provide it )
+ 
+--> describe(name, fn)
+    - the first argument is the group name
+    - the second argument is a function that contains the expectations to test
