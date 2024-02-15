@@ -1,0 +1,4 @@
+tutoril 10 : Jest Watch Mode
+
+- Watch Mode is an option that we can pass to Jest asking to Watch files that have changed since 
+the last commit and execute tests realted only to thsoe changed files.
